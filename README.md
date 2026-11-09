@@ -1,6 +1,6 @@
 # Analyse de fichiers WAV en C
 
-Projet individuel du cours de systèmes embarqués (L2 EEA, Université Côte d'Azur). Il s'agit de retrouver des messages cachés dans un fichier WAV en lisant directement ses octets.
+Projet individuel du cours de systèmes embarqués (licence EEA, Université Côte d'Azur). Il s'agit de retrouver des messages cachés dans un fichier WAV en lisant directement ses octets.
 
 ## Les outils
 
